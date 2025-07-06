@@ -1,0 +1,231 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 20B9-384A
+F:.
+³   .gitignore
+³   00.py
+³   folder_structure2.txt
+³   README.md
+³   
+ÃÄÄÄdata
+³   ÀÄÄÄprocessed
+³       ÃÄÄÄBraTS-GLI-00000-000
+³       ³       BraTS-GLI-00000-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00000-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00000-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00000-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00000-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00002-000
+³       ³       BraTS-GLI-00002-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00002-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00002-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00002-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00002-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00003-000
+³       ³       BraTS-GLI-00003-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00003-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00003-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00003-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00003-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00005-000
+³       ³       BraTS-GLI-00005-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00005-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00005-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00005-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00005-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00006-000
+³       ³       BraTS-GLI-00006-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00006-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00006-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00006-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00006-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00008-000
+³       ³       BraTS-GLI-00008-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00008-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00008-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00008-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00008-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00008-001
+³       ³       BraTS-GLI-00008-001-seg_resized.nii.gz
+³       ³       BraTS-GLI-00008-001-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00008-001-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00008-001-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00008-001-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00009-000
+³       ³       BraTS-GLI-00009-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00009-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00009-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00009-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00009-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00009-001
+³       ³       BraTS-GLI-00009-001-seg_resized.nii.gz
+³       ³       BraTS-GLI-00009-001-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00009-001-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00009-001-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00009-001-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00011-000
+³       ³       BraTS-GLI-00011-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00011-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00011-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00011-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00011-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00012-000
+³       ³       BraTS-GLI-00012-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00012-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00012-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00012-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00012-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00014-000
+³       ³       BraTS-GLI-00014-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00014-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00014-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00014-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00014-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00014-001
+³       ³       BraTS-GLI-00014-001-seg_resized.nii.gz
+³       ³       BraTS-GLI-00014-001-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00014-001-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00014-001-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00014-001-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00016-000
+³       ³       BraTS-GLI-00016-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00016-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00016-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00016-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00016-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00016-001
+³       ³       BraTS-GLI-00016-001-seg_resized.nii.gz
+³       ³       BraTS-GLI-00016-001-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00016-001-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00016-001-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00016-001-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00017-000
+³       ³       BraTS-GLI-00017-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00017-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00017-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00017-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00017-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00017-001
+³       ³       BraTS-GLI-00017-001-seg_resized.nii.gz
+³       ³       BraTS-GLI-00017-001-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00017-001-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00017-001-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00017-001-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00018-000
+³       ³       BraTS-GLI-00018-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00018-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00018-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00018-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00018-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00019-000
+³       ³       BraTS-GLI-00019-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00019-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00019-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00019-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00019-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00020-000
+³       ³       BraTS-GLI-00020-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00020-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00020-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00020-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00020-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00020-001
+³       ³       BraTS-GLI-00020-001-seg_resized.nii.gz
+³       ³       BraTS-GLI-00020-001-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00020-001-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00020-001-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00020-001-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00021-000
+³       ³       BraTS-GLI-00021-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00021-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00021-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00021-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00021-000-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00021-001
+³       ³       BraTS-GLI-00021-001-seg_resized.nii.gz
+³       ³       BraTS-GLI-00021-001-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00021-001-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00021-001-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00021-001-t2w_resized.nii.gz
+³       ³       
+³       ÃÄÄÄBraTS-GLI-00022-000
+³       ³       BraTS-GLI-00022-000-seg_resized.nii.gz
+³       ³       BraTS-GLI-00022-000-t1c_resized.nii.gz
+³       ³       BraTS-GLI-00022-000-t1n_resized.nii.gz
+³       ³       BraTS-GLI-00022-000-t2f_resized.nii.gz
+³       ³       BraTS-GLI-00022-000-t2w_resized.nii.gz
+³       ³       
+³       ÀÄÄÄBraTS-GLI-00022-001
+³               BraTS-GLI-00022-001-seg_resized.nii.gz
+³               BraTS-GLI-00022-001-t1c_resized.nii.gz
+³               BraTS-GLI-00022-001-t1n_resized.nii.gz
+³               BraTS-GLI-00022-001-t2f_resized.nii.gz
+³               BraTS-GLI-00022-001-t2w_resized.nii.gz
+³               
+ÃÄÄÄmodel
+³       best_model.pt
+³       
+ÃÄÄÄnotebooks
+³       01_load_and_visualize_BraTS2025.ipynb
+³       05_visualize_data.ipynb
+³       feature_map_explainability.ipynb
+³       inference_visualizer.ipynb
+³       visualize_prediction.ipynb
+³       
+ÃÄÄÄpreprocessing
+³       bias_correction.py
+³       load_data.py
+³       normalize.py
+³       skull_strip.py
+³       __init__.py
+³       
+ÃÄÄÄresults
+³   ³   best_model.pt
+³   ³   
+³   ÃÄÄÄinference
+³   ³       BraTS-GLI-00025-000_pred.nii.gz
+³   ³       
+³   ÃÄÄÄsamples
+³   ³       epoch0_batch0.png
+³   ³       epoch2_batch0.png
+³   ³       epoch4_batch0.png
+³   ³       
+³   ÀÄÄÄvisuals
+³           BraTS-GLI-00025-000_comparison.png
+³           
+ÃÄÄÄsrc
+³       dataset.py
+³       inference.py
+³       metrics.py
+³       model.py
+³       train.py
+³       utils.py
+³       
+ÃÄÄÄstatic
+³       pred_mask_3d.png
+³       
+ÀÄÄÄvenv
+    ÀÄÄÄScripts
+            python.exe
+            
