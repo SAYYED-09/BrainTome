@@ -32,4 +32,16 @@ BrainTome is a deep learning project focused on segmenting brain tumors from MRI
 ---
 
 ## 📁 Folder Structure
-
+BrainTome/
+├── data/
+│ └── processed/ # Preprocessed volumes
+├── notebooks/ # Jupyter notebooks (exploration, evaluation)
+├── preprocessing/ # Preprocessing scripts
+├── src/ # Model code, training loop, utils
+├── results/
+│ ├── inference/ # NIfTI predictions
+│ ├── samples/ # Image samples
+│ └── visuals/ # Plots, overlays
+├── requirements.txt
+├── .gitignore
+└── README.md
