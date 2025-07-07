@@ -28,3 +28,4 @@ BrainTome is a deep learning project focused on segmenting brain tumors from MRI
 
 4. **Visualization**  
    ✅ Feature maps, middle slices, tumor overlays.
+![prediction output](https://github.com/user-attachments/assets/d423b60a-624b-41c5-8273-ed4837736afb)
