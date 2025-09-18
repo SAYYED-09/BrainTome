@@ -349,9 +349,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Author**: [Hamidali Sayyed]
+- **Email**: sayyedhamidali2349@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/sayyedhamidali]
 - **Project Link**: [https://github.com/yourusername/BrainTome](https://github.com/yourusername/BrainTome)
 
 ---
