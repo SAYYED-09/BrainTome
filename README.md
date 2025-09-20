@@ -6,7 +6,7 @@
 
 BrainTome is an end-to-end deep learning pipeline for automated brain tumor segmentation from multi-modal MRI scans. Built with a lightweight 3D U-Net architecture, it achieves **94.91% Dice score** while being optimized for resource-constrained environments.
 
-![Brain Tumor Segmentation](static/pred_mask_3d.png)
+![Brain Tumor Segmentation](static/inference_result_example.png)
 
 ## ✨ Key Features
 
